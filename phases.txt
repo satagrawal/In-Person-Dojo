@@ -8,6 +8,28 @@ If the majority of the team members are local to RW then please emphasize for in
 If the product team is participating in person, the product team should be arranging travel after getting appropriate permissions from their management..same applies for DOJO coaches as well
 Understand the timeline to conduct dojo sessions.  How much advanced notice does the team needs, if they have to travel.
 
+Define the product team's goals and objectives for the dojo coaching session:
+Before starting the Dojo, it's crucial to determine the specific goals and objectives that the product team wants to achieve through the coaching sessions. This ensures that the training aligns with the team's needs and focuses on the most relevant areas.
+
+Identify the specific skills or areas of focus for the product teams:
+Identify the particular skills or areas that the product teams need to improve or learn during the Dojo. This could be related to specific technologies, development methodologies, or any other relevant aspect of their work.
+
+Determine the duration and frequency of the coaching sessions:
+Decide on the duration and frequency of the coaching sessions. This includes how many days the Dojo will run and how often the sessions will be conducted. Planning these details in advance helps in organizing the logistics effectively.
+
+If you would like to partner with another coach, then include him/her in all your conversations/meetings with the product team:
+If there's a need to involve another coach in the Dojo sessions, make sure to include them in all communication and meetings with the product team. Collaborating with another coach can bring diverse expertise and perspectives to the training.
+
+If the majority of the team members are local to RW, then please emphasize in-person because of the immersive engagement:
+If most of the team members are located in the same region as the Dojo venue, consider emphasizing in-person sessions. In-person engagement fosters better collaboration, communication, and hands-on learning experiences.
+
+If the product team is participating in person, the product team should be arranging travel after getting appropriate permissions from their management. The same applies to DOJO coaches as well:
+If the product team or coaches need to travel to attend the Dojo, ensure that they obtain appropriate permissions from their management before making travel arrangements. This helps avoid any logistical or administrative issues.
+
+Understand the timeline to conduct dojo sessions. How much advanced notice does the team need if they have to travel:
+Understand the timeline and availability of the product team to conduct the Dojo sessions. If team members need to travel, provide them with sufficient advance notice to make necessary arrangements and ensure their participation.
+
+
 Logistics
 
 Arrange a suitable venue with enough space for all participants and equipment.
