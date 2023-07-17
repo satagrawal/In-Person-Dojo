@@ -1,0 +1,47 @@
+Pre-Planning Phase
+
+Define the product team's goals and objectives for the dojo coaching session.
+Identify the specific skills or areas of focus for the product teams.
+Determine the duration and frequency of the coaching sessions.
+If you would like to partner with another coach, then include him/her in all your conversations/meetings with the product team
+If the majority of the team members are local to RW then please emphasize for in-person because of the immersive engagement
+If the product team is participating in person, the product team should be arranging travel after getting appropriate permissions from their management..same applies for DOJO coaches as well
+Understand the timeline to conduct dojo sessions.  How much advanced notice does the team needs, if they have to travel.
+
+Logistics
+
+Arrange a suitable venue with enough space for all participants and equipment.
+Ensure the venue has good internet connectivity and access to necessary tools.
+Set up comfortable seating arrangements and workstations for each team.
+Provide necessary amenities like whiteboards, flip charts, markers, and stationery.
+Arrange for projectors or large screens for presentations and demonstrations.
+Ensure the availability of power outlets and extension cords for charging devices.
+Arrange for refreshments and snacks to keep participants energized (optional)
+Assess the availability of suitable space for conducting the dojo sessions.
+
+Materials & Resources
+
+Communicate the details and expectations to the participating teams.
+Prepare a detailed agenda or schedule for the coaching sessions.
+Create handouts or instructional materials for each topic or skill being covered.
+Provide access to relevant documentation, guidelines, and best practices.
+Prepare code examples and exercises for hands-on practice.
+Set up a version control system and provide access to relevant code repositories.
+Install and configure necessary software development tools and environments.
+Provide access to relevant hardware or devices required for testing or development.
+
+Execution of Dojo
+
+Start each session with an overview of the goals and objectives.
+Introduce the facilitators and briefly explain their background and expertise.
+Begin with a short presentation or discussion on the topic of the session.
+Conduct interactive activities like group discussions or brainstorming sessions.
+Encourage participants to ask questions and share their experiences.
+Provide hands-on coding exercises to apply the concepts learned.
+Facilitate peer-to-peer learning and collaboration among the teams.
+Offer guidance and feedback during the hands-on practice sessions.
+Conduct regular progress check-ins and address any challenges or roadblocks.
+Wrap up each session with a summary and key takeaways.
+Assign follow-up tasks or homework to reinforce learning between sessions.
+At the end of the DOJO try to conduct an anonymous poll, I guess we can create one on Teams
+
